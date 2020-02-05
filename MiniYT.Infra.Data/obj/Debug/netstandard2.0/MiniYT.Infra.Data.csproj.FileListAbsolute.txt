@@ -1,0 +1,11 @@
+B:\1 Senai\MiniYouTube\MiniYT-BackEnd\MiniYT.Infra.Data\bin\Debug\netstandard2.0\MiniYT.Infra.Data.deps.json
+B:\1 Senai\MiniYouTube\MiniYT-BackEnd\MiniYT.Infra.Data\bin\Debug\netstandard2.0\MiniYT.Infra.Data.dll
+B:\1 Senai\MiniYouTube\MiniYT-BackEnd\MiniYT.Infra.Data\obj\Debug\netstandard2.0\MiniYT.Infra.Data.csprojAssemblyReference.cache
+B:\1 Senai\MiniYouTube\MiniYT-BackEnd\MiniYT.Infra.Data\obj\Debug\netstandard2.0\MiniYT.Infra.Data.AssemblyInfoInputs.cache
+B:\1 Senai\MiniYouTube\MiniYT-BackEnd\MiniYT.Infra.Data\obj\Debug\netstandard2.0\MiniYT.Infra.Data.AssemblyInfo.cs
+B:\1 Senai\MiniYouTube\MiniYT-BackEnd\MiniYT.Infra.Data\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+B:\1 Senai\MiniYouTube\MiniYT-BackEnd\MiniYT.Infra.Data\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+B:\1 Senai\MiniYouTube\MiniYT-BackEnd\MiniYT.Infra.Data\bin\Debug\netstandard2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+B:\1 Senai\MiniYouTube\MiniYT-BackEnd\MiniYT.Infra.Data\bin\Debug\netstandard2.0\MiniYT.Infra.Data.pdb
+B:\1 Senai\MiniYouTube\MiniYT-BackEnd\MiniYT.Infra.Data\obj\Debug\netstandard2.0\MiniYT.Infra.Data.dll
+B:\1 Senai\MiniYouTube\MiniYT-BackEnd\MiniYT.Infra.Data\obj\Debug\netstandard2.0\MiniYT.Infra.Data.pdb

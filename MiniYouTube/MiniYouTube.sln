@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniYouTube", "MiniYouTube.csproj", "{BC718891-94AC-429D-AFAF-55B667FED2A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Domain", "1-Domain", "{B06DE899-5C3B-4744-AB4C-700A7FD89324}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-InfraData", "2-InfraData", "{DB70F876-0EE5-4E98-B797-2A405F25DC92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Service", "4-Service", "{8D7553EF-A4DC-4350-9A03-C6626F51449E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-WebApi", "3-WebApi", "{98F952F4-F254-49DC-AF67-264032A0BDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniYT.Infra.Data", "..\MiniYT.Infra.Data\MiniYT.Infra.Data.csproj", "{8E52DE9A-E9E2-4048-BE62-B84B527F96AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniYT.Domain", "..\MiniYT.Domain\MiniYT.Domain.csproj", "{FC23E605-8368-455D-9F57-8AFEA3D8AA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC718891-94AC-429D-AFAF-55B667FED2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC718891-94AC-429D-AFAF-55B667FED2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC718891-94AC-429D-AFAF-55B667FED2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC718891-94AC-429D-AFAF-55B667FED2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E52DE9A-E9E2-4048-BE62-B84B527F96AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E52DE9A-E9E2-4048-BE62-B84B527F96AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E52DE9A-E9E2-4048-BE62-B84B527F96AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E52DE9A-E9E2-4048-BE62-B84B527F96AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC23E605-8368-455D-9F57-8AFEA3D8AA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC23E605-8368-455D-9F57-8AFEA3D8AA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC23E605-8368-455D-9F57-8AFEA3D8AA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC23E605-8368-455D-9F57-8AFEA3D8AA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BC718891-94AC-429D-AFAF-55B667FED2A8} = {98F952F4-F254-49DC-AF67-264032A0BDC1}
+		{8E52DE9A-E9E2-4048-BE62-B84B527F96AC} = {DB70F876-0EE5-4E98-B797-2A405F25DC92}
+		{FC23E605-8368-455D-9F57-8AFEA3D8AA54} = {B06DE899-5C3B-4744-AB4C-700A7FD89324}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7139C583-A196-4855-B6AE-3A813AAB6C2D}
+	EndGlobalSection
+EndGlobal
